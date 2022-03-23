@@ -6,5 +6,5 @@
 
 ## Tools & Languages
 
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
+![](https://img.shields.io/badge/Editor-VsCode-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
