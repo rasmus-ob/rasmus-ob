@@ -1,4 +1,4 @@
-# Hi I'm Rasmus! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hi I'm Rasmus! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> 
 
 ## This is my Github Stats!
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rasmus-ob&theme=tokyonight" />
