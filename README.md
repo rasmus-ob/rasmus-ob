@@ -4,19 +4,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rasmus-ob&theme=tokyonight" />
 
 ## What I work on
-Right now I work on the ***"simpelt-plugg"*** repository which goal is to make studying just a little bit easier!
+Right now I work on the ***"social"*** repository which goal is to make social media better for the user!
 
 
-
-## Tools & Languages
-
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
-![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
-![](https://img.shields.io/badge/Language-Html-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
-![](https://img.shields.io/badge/Language-Lua-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
-![](https://img.shields.io/badge/Developer-Web-informational?style=for-the-badge&logo=&logoColor=white&color=45648C&labelColor=2F3D59)
 
 <!--
   https://shields.io/
